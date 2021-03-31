@@ -26,12 +26,12 @@ Fig. 2 - UML class design of Visitor pattern.
 
 ## Cite this work
     J. Rico, (2019) Binary Expression Tree using Composite and Visitor design patterns. 
-    [Source code](https://github.com/jvirico/CentralMessagingSystem)
+    [Source code](https://github.com/jvirico/binary_expression_tree)
 
 ## References
 [1] - [Binary expression tree Wikipedia](https://en.wikipedia.org/wiki/Binary_expression_tree)\
 [2] - [Composite Pattern Wikipedia](https://en.wikipedia.org/wiki/Composite_pattern)\
 [3] - SHVETS, Alexander. Dive Into Design Patterns. Refactoring. Guru, 2018.
 \
-[4] - [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern#:~:text=In%20object%2Doriented%20programming%20and,structures%20without%20modifying%20the%20structures.)
+[4] - [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern#:~:text=In%20object%2Doriented%20programming%20and,structures%20without%20modifying%20the%20structures.)\
 [5] - [PPCU, Budapest. Design Patterns](http://ipcv.eu/blog/course/programming-methodology/)
